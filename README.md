@@ -3,7 +3,8 @@
 ## Addtional support
 
 - [show prefix/copy mode](https://github.com/tmux-plugins/tmux-prefix-highlight)
-- [show net speed](https://github.com/tmux-plugins/tmux-net-speed)
+- [show net speed](https://github.com/tmux-plugins/tmux-net-speed) - temporary
+    removed (I used mac :))
 - [show memory/ram usage](https://github.com/tmux-plugins/tmux-cpu)
 
 ![Copy mode](./images/copy-mode.png)
