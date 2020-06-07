@@ -1,4 +1,15 @@
 # Gruvbox color theme configuration for Tmux
+# Forked from [Egel's repo](https://github.com/egel/tmux-gruvbox)
+## Addtional support
+
+- [show prefix/copy mode](https://github.com/tmux-plugins/tmux-prefix-highlight)
+- [show net speed](https://github.com/tmux-plugins/tmux-net-speed)
+- [show memory/ram usage](https://github.com/tmux-plugins/tmux-cpu)
+
+![Copy mode](./images/copy-mode.png)
+![Prefix](./images/prefix.png)
+
+
 
 Theme with 'retro groove' flavor for [Tmux][github-tmux], based on Pavel Pertsev's [gruvbox colorscheme][github-grovbox] and inspired by work of [Gordon Chiam](https://gist.github.com/gchiam/4606522f513cc64b79ce).
 
