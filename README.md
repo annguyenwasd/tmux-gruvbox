@@ -3,21 +3,11 @@
 ## Addtional support
 
 - [show prefix/copy mode](https://github.com/tmux-plugins/tmux-prefix-highlight)
-- [show net speed](https://github.com/tmux-plugins/tmux-net-speed) - temporary
-    removed (I used mac :))
 - [show memory/ram usage](https://github.com/tmux-plugins/tmux-cpu)
+- [show input method (vietnamese only)](https://github.com/annguyenwasd/tmux-osx-selected-input-source)
 
 ![Copy mode](./images/copy-mode.png)
 ![Prefix](./images/prefix.png)
-
-
-
-Theme with 'retro groove' flavor for [Tmux][github-tmux], based on Pavel Pertsev's [gruvbox colorscheme][github-grovbox] and inspired by work of [Gordon Chiam](https://gist.github.com/gchiam/4606522f513cc64b79ce).
-
-> Screenshot made from Mac OSX builtin terminal with xterm-256color and [Hack font][github-hack].
-
-<img src="http://i.imgur.com/OqnVzqf.png" title="Tmux grovbox colorscheme" style="width: 100%; max-width: 600px; text-align: center;" />
-
 
 ## Installation
 ### Install manually
