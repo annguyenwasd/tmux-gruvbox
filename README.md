@@ -2,6 +2,7 @@
 # Forked from [Egel's repo](https://github.com/egel/tmux-gruvbox)
 ## Addtional support
 
+- [show battery status](https://github.com/tmux-plugins/tmux-battery)
 - [show prefix/copy mode](https://github.com/tmux-plugins/tmux-prefix-highlight)
 - [show memory/ram usage](https://github.com/tmux-plugins/tmux-cpu)
 - [show input method (vietnamese only)](https://github.com/annguyenwasd/tmux-osx-selected-input-source)
@@ -22,7 +23,7 @@ cat tmux-gruvbox-dark.conf >> ~/.tmux.conf
 ### Install through [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
 Add plugin to the list of TPM plugins in `.tmux.conf`
 ```
-set -g @plugin 'egel/tmux-gruvbox'
+set -g @plugin 'annguyenwasd/tmux-gruvbox'
 ```
 Hit `prefix + I` to fetch the plugin and source it.
 Your tmux should be updated with the theme at this point.
